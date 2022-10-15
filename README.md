@@ -3,6 +3,9 @@
 
 Portfolio website with advanced concepts like HTML5,SCASS,ES6-JS AND MORE.....
 
+## Demo
+
+https://bravim-ketan-purohit.github.io/Bravim_Purohit/
 
 # Hi, I'm Bravim! 👋
 
@@ -12,8 +15,7 @@ more about me I'm Bravim just a beginner but with a great enthusiasm and dedicat
 - [@Bravim-Ketan-Purohit](https://github.com/Bravim-Ketan-Purohit)
 
 
-## 🛠 Skills
-Javascript, HTML, CSS, Python, C++, Machine Learning....
+
 
 
 ## Tech Stack
@@ -29,5 +31,10 @@ Javascript, HTML, CSS, Python, C++, Machine Learning....
 - Live previews
 - Full Responsive
 - Amazing dynamic Aesthetics
+
+## 🛠 Skills
+Javascript, HTML, CSS, Python, C++, Machine Learning....
+
+
 
 
